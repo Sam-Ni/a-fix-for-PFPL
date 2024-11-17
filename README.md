@@ -22,4 +22,4 @@ The notes for our fix for the proof of Fixed Point Induction in PFPL lies in
 
 ### Formalization
 
-The Coq proof scripts are located at https://zenodo.org/records/13918934.
+The Coq proof scripts are located at [formalization](https://zenodo.org/records/13918934).
